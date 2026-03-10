@@ -6,7 +6,7 @@ El programa lee una lista de cadenas desde un archivo de texto y determina si ca
 La ejecución del programa se realiza pasando el archivo de entrada como argumento desde la terminal.
 
 
-# Definición del lenguaje
+## Definición del lenguaje
 
 La expresión regular que define el lenguaje es:
 
