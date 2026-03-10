@@ -1,4 +1,4 @@
-# Punto 4 - Raíz cuadrada usando Newton-Raphson
+# Punto 3- Raíz cuadrada usando Newton-Raphson
 
 ## Descripción
 En este ejercicio se implementó un programa en C utilizando Flex y Bison para calcular la raíz cuadrada de un número usando el método de Newton-Raphson.
