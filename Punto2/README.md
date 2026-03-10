@@ -58,7 +58,7 @@ Las pruebas incluyen:
 * Identificadores inválidos con caracteres especiales
 * Identificadores que comienzan con números
 
-# Conclusión
+## Conclusión
 
 Se implementó un AGD capaz de validar identificadores definidos por la expresión regular [A-Za-z][A-Za-z0-9]*.
 El programa analiza cada cadena proveniente de un archivo de texto y determina si cumple o no con las reglas del lenguaje. Esto permite verificar de manera automática la validez de identificadores según la definición establecida.
