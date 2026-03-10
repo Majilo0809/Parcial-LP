@@ -53,6 +53,6 @@ r->c3 : NO ACEPTA
 r->b3 : ACEPTA
 0809 : NO ACEPTA
 
-# #Conclusión
+## Conclusión
 
 El programa evalúa cada carácter de la cadena y realiza transiciones entre estados hasta determinar si la cadena pertenece o no al lenguaje definido por la expresión regular.
